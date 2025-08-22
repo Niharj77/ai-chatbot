@@ -1,6 +1,4 @@
 # ai-chatbot
-“This is a simple AI project that generates text using Hugging Face Transformers (GPT-2).”
-# 🧠 AI Text Generator
 
 A simple AI project that generates human-like text using **Hugging Face Transformers** (GPT-2).  
 This project is great as a starter for learning **Natural Language Processing (NLP)** and building AI applications with Python.  
